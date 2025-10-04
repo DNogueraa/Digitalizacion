@@ -5,7 +5,7 @@ El proceso de transformar la información analógica (palabras, imágenes o dato
 ![¿Por qué?](img/ventajasDigitalizacion.png)
 
 # ¿Cómo digitalizan las empresas?
-![Tipos digitalización](img/comoDigitalizar.png)
+![Tipos digitalización](img/comoDigitaizar.png)
 
 # ¿Cómo cambia la tecnología digital a las empresas?
 La implantación de la tecnología digital no consiste únicamente en adoptar nuevas herramientas, sino, sobre todo, en integrarlas de manera estratégica en la organización.
