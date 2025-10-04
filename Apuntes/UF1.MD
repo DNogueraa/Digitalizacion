@@ -2,10 +2,10 @@
 El proceso de transformar la información analógica (palabras, imágenes o datos numéricos) en formatos digitales, utilizando para ello la tecnoligía, esdecir, realizar de forma lectrónica o digital las tareas que antes solían haccerse a papel y de forma manual
 
 # ¿Por qué se digitalizan las empresas?
-[¿Por qué?](img/ventajasDigitalizacion.png)
+![¿Por qué?](img/ventajasDigitalizacion.png)
 
 # ¿Cómo digitalizan las empresas?
-[Tipos digitalización](img/comoDigitaizar.png)
+![Tipos digitalización](img/comoDigitaizar.png)
 
 # ¿Cómo cambia la tecnología digital a las empresas?
 
