@@ -20,7 +20,7 @@ La implantación de la tecnología digital no consiste únicamente en adoptar nu
   Cambio en las formas de trabajo. Las tareas repetitivas pueden automatizarse, lo que da lugar a un resultado más preciso, rápido y ordenado, y las tareas complejas pueden simplificarse.
 </details>
 <details>
-  </summary>Impacto en la comunicación:</summary>
+  <summary>Impacto en la comunicación:</summary>
   Cambio en las formas de colaboración. Los ordenadores y las aplicaciones	informáticas	ayudan	a	la	coordinación	humana.	Así,	las	videoconferencias, las   plataformas de mensajería instantánea y las herramientas de colaboración en línea permiten una comunicación más fluida y rápida.
 </details>
 - **Impacto en la estructura
