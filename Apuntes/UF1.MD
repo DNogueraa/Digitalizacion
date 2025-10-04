@@ -12,4 +12,4 @@ El proceso de transformar la información analógica (palabras, imágenes o dato
 La implantación de la tecnología digital no consiste únicamente en adoptar nuevas herramientas, sino, sobre todo, en integrarlas de manera estratégica en la organización. 
 
     - **Impacto en los recursos humanos:** Desaparicón de puesto de trabajo
-    -**Impacto en las tareas y forma de trabajo**: Cambio en las formas de trabajo. Las tareas repetitivas pueden automatizarse, lo que da lugar a un resultado más preciso, rápido y ordenado, y las tareas complejas pueden simplificarse. 
+    - **Impacto en las tareas y forma de trabajo**: Cambio en las formas de trabajo. Las tareas repetitivas pueden automatizarse, lo que da lugar a un resultado más preciso, rápido y ordenado, y las tareas complejas pueden simplificarse. 
